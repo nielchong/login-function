@@ -4,7 +4,6 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import './index.css';
 import Home from './Pages/Home/Home';
 import Login from './Pages/Login/Login';
-import AHapi from './Pages/AHapi/AHapi';
 import Logout from './Pages/Logout/Logout';
 import Welcome from './Pages/Welcome/Welcome';
 import Restricted from './Pages/Restricted/Restricted';
@@ -20,10 +19,6 @@ const router = createBrowserRouter([
   {
     path: '/login',
     element: <Login />, 
-  },
-  {
-    path: '/ahapi',
-    element: <AHapi />, 
   },
   {
     path: '/logout',

@@ -24,7 +24,6 @@ function TopBar() {
       </div>
       <nav className="nav-links">
         <Link to="/">Home</Link>
-        <Link to="/ahapi">AH API</Link>
         <Link to="/about">About</Link>
         <Link to="/personal">Personal</Link>
         <Link to="/projects">Projects</Link>

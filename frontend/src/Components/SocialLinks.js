@@ -11,7 +11,7 @@ function SocialLinks() {
       <a href="mailto:niel.chong93@gmail.com" target="_blank" rel="noopener noreferrer">
         <FaGoogle />
       </a>
-      <a href="https://github.com/nielchong/personal" target="_blank" rel="noopener noreferrer">
+      <a href="https://github.com/nielchong/" target="_blank" rel="noopener noreferrer">
         <FaGithub />
       </a>
       <a href="https://wa.me/91544012/" target="_blank" rel="noopener noreferrer">
