@@ -17,7 +17,7 @@ function Home() {
           My name is <span style={{ color: 'maroon' }}>Niel</span>.
         </p>
         <p className="bio">
-          An aspiring software developer with one year of experience in back-end development using Java and Kotlin. Please download my resume for more information.
+          An aspiring software developer with one year of experience in back-end development using Java and Kotlin and two years of experience in automation. Currently interested in all things AI related. Please download my resume for more information.
         </p>
         <a href={resume} download="Resume (Niel Chong).pdf">
           <button className="rounded-button">

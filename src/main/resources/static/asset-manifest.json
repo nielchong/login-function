@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.801e478e.css",
+    "main.js": "/static/js/main.8cd52c44.js",
+    "static/media/Portfolio Picture.png": "/static/media/Portfolio Picture.e60f939042b364f89a4c.png",
+    "static/media/Cat Image.png": "/static/media/Cat Image.c8103dd64b84ffd264f7.png",
+    "static/media/Resume (Niel Chong).pdf": "/static/media/Resume (Niel Chong).720a1521958926b26d4b.pdf",
+    "index.html": "/index.html",
+    "main.801e478e.css.map": "/static/css/main.801e478e.css.map",
+    "main.8cd52c44.js.map": "/static/js/main.8cd52c44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.801e478e.css",
+    "static/js/main.8cd52c44.js"
+  ]
+}

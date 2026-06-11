@@ -81,6 +81,12 @@ public class SecurityConfig {
 				.authenticationProvider(userAuthProvider())
 				.authorizeHttpRequests(authorize -> authorize
 					.requestMatchers(
+						new AntPathRequestMatcher("/"),
+						new AntPathRequestMatcher("/index.html"),
+						new AntPathRequestMatcher("/static/**"),
+						new AntPathRequestMatcher("/*.js"),
+						new AntPathRequestMatcher("/*.css"),
+						new AntPathRequestMatcher("/*.ico"),
 						new AntPathRequestMatcher("/user/register"),
 						new AntPathRequestMatcher("/user/login"),
 						new AntPathRequestMatcher("/user/session"))
